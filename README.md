@@ -14,7 +14,12 @@ NOTA: NO HAGAN CAMBIOS SOBRE LA LÍNEA ÚNICA DE CSS, SE REMOVERÁN AL ACTUALIZA
 Para eso están los addons, y TODOS tienen que ir con el siguiente formato:
 
 /* Addon: nombre del addon */
+
+
 contenido
+
+
 /* End Addon */
+
 
 Saludos.
