@@ -147,3 +147,9 @@ body.res.search-page #search {
 }    
 
 /* End Addon /*
+
+/* Addon: Cambiar el texto hover del downvote */
+.arrow.down:after {
+    content: "Para contenido que no contribuya a la conversación";
+}
+/* End Addon */
